@@ -2,11 +2,13 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask android-studio
 cask appcleaner
 cask aria2gui
 cask baiducloud
 cask charles
 cask dropbox
+cask fastlane
 cask firefox
 cask google-chrome
 cask iina
@@ -17,16 +19,15 @@ cask pphelper
 cask proxifier
 cask pycharm-ce
 cask robo-3t
+cask shadowsocksx-ng
 cask sogouinput
 cask sourcetree
 cask sublime-text
 cask teamviewer
 cask thunder
 cask webstorm
-cask zeplin
-cask shadowsocksx-ng
 cask wireshark
-cask android-studio
+cask zeplin
 
 tap homebrew/core
 brew gdbm
@@ -72,4 +73,3 @@ appstore 1014850245 # Monit
 appstore 512617038 # Snappy
 appstore 1231336508 # 腾讯视频
 appstore 489782456 # 芒果 TV
-
