@@ -3,6 +3,15 @@
 Make your MacBook ready to use in few minutes  :D
 
 
+# Usage
+1. 安装 [Homebrew](https://brew.sh/index_zh-cn.html)
+2. 安装 [homebrew-file](http://homebrew-file.readthedocs.io/en/latest/installation.html)
+3. `cd Brewfile`
+4. `brew file install`
+
+---
+# 关于此 Repo
+
 # Homebrew 系
 > The missing package manager for macOS
 
@@ -30,9 +39,7 @@ eg :
 ##### 4. [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) : 这个相当于 npm 的 `package.json` 或者 Cocoapods 的 `Podfile`, 将所有依赖都写入到这个一个 `Brewfile` 中, 然后执行 `brew bundle` 就会安装配置好所有东西
 
 
-# 环境配置
-
-所以使用
+## 所以使用
 
 1. Homebrew 安装所有的基础包 : Nginx MySql
 2. Homebrew Cask 安装大部分 App : Chrome, iterm2, WebStorm 
@@ -41,6 +48,7 @@ eg :
 
 我们就能实现用一个配置文件几分钟搭建好 MacBook 的基本环境
 
+# 开始环境配置
 ## [homebrew-file](https://github.com/rcmdnk/homebrew-file) 
 **是一个帮助我们管理 `Brewfile` 的非常方便的命令行工具**
 
