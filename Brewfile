@@ -63,7 +63,6 @@ appstore 1014945607 # 优酷
 appstore 1127253508 # 全能解压
 appstore 1213696021 # Parrot Xcode Debug
 appstore 1012296988 # 爱奇艺
-appstore 412448059 # ForkLift
 appstore 498672703 # Droplr
 appstore 1101244278 # iPic
 appstore 937984704 # Amphetamine
