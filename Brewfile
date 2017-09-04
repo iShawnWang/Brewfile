@@ -30,8 +30,16 @@ cask wireshark
 cask zeplin
 
 tap homebrew/core
+brew autoconf
+brew automake
+brew chromedriver
+brew coreutils
 brew gdbm
 brew icu4c
+brew libgpg-error
+brew libksba --force
+brew libtool
+brew libyaml
 brew mas
 brew mongodb
 brew mysql
@@ -40,6 +48,7 @@ brew node
 brew openssl
 brew openssl@1.1
 brew pcre
+brew pkg-config
 brew python3
 brew readline
 brew sqlite
