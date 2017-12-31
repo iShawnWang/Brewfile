@@ -6,7 +6,7 @@ Make your MacBook ready to use in few minutes  :D
 # Usage
 1. 安装 [Homebrew](https://brew.sh/index_zh-cn.html)
 2. 安装 [homebrew-file](http://homebrew-file.readthedocs.io/en/latest/installation.html)
-3. `cd Brewfile`
+3. `https://github.com/iShawnWang/Brewfile ~/.config/brewfile`
 4. `brew file install`
 
 ---
