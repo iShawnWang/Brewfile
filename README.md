@@ -15,18 +15,18 @@ Make your MacBook ready to use in few minutes  :D
 # Homebrew 系
 > The missing package manager for macOS
 
-##### 1.  [Homebrew](https://brew.sh) 就像 ubuntu 中的 `apt-get` 或者 CentOS 中的 `yum`, 是一个包管理器, 我们可以用命令行安装一些包, 
+#### 1.  [Homebrew](https://brew.sh) 就像 ubuntu 中的 `apt-get` 或者 CentOS 中的 `yum`, 是一个包管理器, 我们可以用命令行安装一些包, 
 eg : 
 
     brew install mongodb
 
-##### 2. [Homebrew-cask](https://caskroom.github.io) : 是 Homebrow 的一个扩展, 可以用命令来安装 OSX 的 App, 这相当于一个平台, 许多 App 的 cask 是由相关的社区维护的, 你也可以贡献一个自己的 cask
+#### 2. [Homebrew-cask](https://caskroom.github.io) : 是 Homebrow 的一个扩展, 可以用命令来安装 OSX 的 App, 这相当于一个平台, 许多 App 的 cask 是由相关的社区维护的, 你也可以贡献一个自己的 cask
 eg : 
 
     brew cask install google-chrome
 
 
-##### 3. [mas](https://github.com/mas-cli/mas) : Mac App Store command line interface, 它是一个 Mac AppStore 的命令行版
+#### 3. [mas](https://github.com/mas-cli/mas) : Mac App Store command line interface, 它是一个 Mac AppStore 的命令行版
 
 eg : 
     
@@ -36,7 +36,7 @@ eg :
     $ mas install 497799835
     
 
-##### 4. [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) : 这个相当于 npm 的 `package.json` 或者 Cocoapods 的 `Podfile`, 将所有依赖都写入到这个一个 `Brewfile` 中, 然后执行 `brew bundle` 就会安装配置好所有东西
+#### 4. [homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) : 这个相当于 npm 的 `package.json` 或者 Cocoapods 的 `Podfile`, 将所有依赖都写入到这个一个 `Brewfile` 中, 然后执行 `brew bundle` 就会安装配置好所有东西
 
 
 ## 所以使用
@@ -94,4 +94,8 @@ eg :
 
 # 关于
 本仓库中的 [Brewfile](https://github.com/iShawnWang/Brewfile/blob/master/Brewfile) 是我自己的配置文件, 供参考
+建议参考我的安装的包, 而不是直接使用 ~
+
+# Ref 
+> [bestswifter/macbootstrap](https://github.com/bestswifter/macbootstrap)
 
